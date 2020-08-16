@@ -23,7 +23,7 @@ namespace programa_3
             entrada = Console.ReadLine();
             alt = Convert.ToSingle(entrada);
 
-            resultado = (2 * alt) / super;
+            resultado = (2 * super) / alt;
             Console.WriteLine(" El valor de la superficie es igual a : {0}, la altura digitada es de :{1} por lo tanto la base del triangulo es de:{2}",super,alt,resultado);
 
         }
