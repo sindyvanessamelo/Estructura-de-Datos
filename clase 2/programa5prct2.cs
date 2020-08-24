@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace programa05pract2
+namespace programa5prct2
 {
     class Program
     {
@@ -11,8 +11,8 @@ namespace programa05pract2
             // y el 7.5% de comisión por los articulos cuyo precio sea mayor o igual a 10bs.f//
 
 
-            double costoventas,venta,ventas1, ventas2, comisiontotal1, comisiontotal2;
-          
+            double costoventas, venta, ventas1, ventas2, comisiontotal1, comisiontotal2;
+
             Console.WriteLine("Hoy vamos a hallar la comisión total de ventas");
             Console.WriteLine("");
             Console.WriteLine("por favor digital el costo de venta: ");
@@ -22,18 +22,18 @@ namespace programa05pract2
             Console.WriteLine("por favor digital el costo de venta: ");
             ventas2 = double.Parse(Console.ReadLine());
 
-            if (venta <= 10 && ventas1<=10 && ventas2<=10)
+            if (venta <= 10 && ventas1 <= 10 && ventas2 <= 10)
             {
                 costoventas = venta + ventas1 + ventas2;
                 comisiontotal1 = costoventas * 0.5;
-                    Console.WriteLine("comisión total por ventas: {0} pesos", comisiontotal1);
+                Console.WriteLine("comisión total por ventas: {0} pesos", comisiontotal1);
             }
 
-            else if (venta >= 10000 && ventas1>=10000 && ventas2 >=10000)
+            else if (venta >= 10000 && ventas1 >= 10000 && ventas2 >= 10000)
             {
                 costoventas = venta + ventas1 + ventas2;
                 comisiontotal2 = costoventas * 0.075;
-                    Console.WriteLine("comisión total por ventas: {0} pesos", comisiontotal2);
+                Console.WriteLine("comisión total por ventas: {0} pesos", comisiontotal2);
             }
         }
     }

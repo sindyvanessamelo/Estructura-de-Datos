@@ -1,9 +1,9 @@
 ﻿using System;
 
-namespace programa07pract2
+namespace programa8prct2
 {
     class Program
-    {//Dados tres números diferentes, deducir cual es el central//
+    {
         static void Main(string[] args)
         {
             int num1, num2, num3;
@@ -38,14 +38,10 @@ namespace programa07pract2
             {
                 Console.WriteLine(" el número del medio es: {0}", num3);
             }
-             if (num1==num2 && num2==num3 && num3 == num1)
+            if (num1 == num2 && num2 == num3 && num3 == num1)
             {
                 Console.WriteLine("se digito el mismo número");
             }
         }
     }
 }
-
-    
-
-          

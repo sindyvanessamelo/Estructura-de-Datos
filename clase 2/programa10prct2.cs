@@ -1,6 +1,6 @@
-using System;
+﻿using System;
 
-namespace desarrolloejer10
+namespace programa9clase2
 {
     class Program
     {
@@ -41,7 +41,7 @@ namespace desarrolloejer10
                 entrada = Console.ReadLine();
                 sexo = Convert.ToInt32(entrada);
                 Console.WriteLine("");
-                
+
                 if (sexo == 1)
                 {
                     mujeres = mujeres + sexo;
@@ -75,18 +75,18 @@ namespace desarrolloejer10
                             hombres = hombres + sexo;
                             edadpromedio = edadpromedio + edad;
                             promedio = edadpromedio / hombres;
+
                         }                    
                         break;
-                } */
+                }
+
+ 
+                */
             }
-            
-            /*Console.WriteLine("cantidad de hombres: {0} ", hombres);
-             Console.WriteLine("promedio de edad hombres: {0} ", promedio);*/
+
+            //Console.WriteLine("cantidad de hombres: {0} ", hombres);
+            // Console.WriteLine("promedio de edad hombres: {0} ", promedio);//
             Console.WriteLine("total de mujeres: {0} ", mujeres);
         }
-
-        }
-
-  }
-        
-    
+    }
+}

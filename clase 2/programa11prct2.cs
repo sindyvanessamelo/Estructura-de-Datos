@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Clase2Ejercicio11
+namespace programa11prct2
 {
     class Program
     {
@@ -19,10 +19,10 @@ namespace Clase2Ejercicio11
                 Console.WriteLine("");
                 switch (peso)
                 {
-                    case 1: Console.WriteLine("Alumnos que pesan menos de 40kg");Menos40kg++;break;
+                    case 1: Console.WriteLine("Alumnos que pesan menos de 40kg"); Menos40kg++; break;
                     case 2: Console.WriteLine("Alumnos que pesan entre 40 y 50kg"); Mas40kg++; break;
-                    case 3: Console.WriteLine("Alumnos que pesan mas de 50 y menos de 60kg");Mas50kg++; break;
-                    case 4: Console.WriteLine("Alumnos que pesan mas o igual a 60kg");Mas60kg++; break;       
+                    case 3: Console.WriteLine("Alumnos que pesan mas de 50 y menos de 60kg"); Mas50kg++; break;
+                    case 4: Console.WriteLine("Alumnos que pesan mas o igual a 60kg"); Mas60kg++; break;
                 }
             }
             Console.WriteLine("Alumnos que pesan menos de 40kg" + Menos40kg);
@@ -31,12 +31,5 @@ namespace Clase2Ejercicio11
             Console.WriteLine("Alumnos que pesan mas o igual a 60kg" + Mas60kg);
         }
     }
-}
-
-
-
-
-
-
-
+    }
 

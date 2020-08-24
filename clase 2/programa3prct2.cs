@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace programa3prct2
+namespace programa3clase2
 {
     class Program
     {
@@ -26,7 +26,6 @@ namespace programa3prct2
             {
                 Console.WriteLine("el número {0} Es primo", n);
             }
-            
 
         }
     }
