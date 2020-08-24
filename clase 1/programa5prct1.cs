@@ -1,11 +1,9 @@
 ﻿using System;
 
-namespace programa05
+namespace programa5prct1
 {
-
     class Program
     {
-        //Escribir un algortimo que me permita calcular el peso de una persona en libras y devuelva su peso en kilogramas//
         static void Main(string[] args)
         {
             float lb = 2.20462f;

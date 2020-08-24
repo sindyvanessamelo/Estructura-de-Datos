@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace programa_3
+namespace programa3prct1
 {
     class Program
     {
@@ -24,7 +24,7 @@ namespace programa_3
             alt = Convert.ToSingle(entrada);
 
             resultado = (2 * super) / alt;
-            Console.WriteLine(" El valor de la superficie es igual a : {0}, la altura digitada es de :{1} por lo tanto la base del triangulo es de:{2}",super,alt,resultado);
+            Console.WriteLine(" El valor de la superficie es igual a : {0}, la altura digitada es de :{1} por lo tanto la base del triangulo es de:{2}", super, alt, resultado);
 
         }
     }
