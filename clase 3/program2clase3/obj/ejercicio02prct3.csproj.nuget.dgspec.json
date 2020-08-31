@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CARLOS\\source\\repos\\program2clase3\\program2clase3\\program2clase3.csproj": {}
+    "C:\\Users\\CARLOS\\source\\repos\\ejercicio02prct3\\ejercicio02prct3\\ejercicio02prct3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CARLOS\\source\\repos\\program2clase3\\program2clase3\\program2clase3.csproj": {
+    "C:\\Users\\CARLOS\\source\\repos\\ejercicio02prct3\\ejercicio02prct3\\ejercicio02prct3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CARLOS\\source\\repos\\program2clase3\\program2clase3\\program2clase3.csproj",
-        "projectName": "program2clase3",
-        "projectPath": "C:\\Users\\CARLOS\\source\\repos\\program2clase3\\program2clase3\\program2clase3.csproj",
+        "projectUniqueName": "C:\\Users\\CARLOS\\source\\repos\\ejercicio02prct3\\ejercicio02prct3\\ejercicio02prct3.csproj",
+        "projectName": "ejercicio02prct3",
+        "projectPath": "C:\\Users\\CARLOS\\source\\repos\\ejercicio02prct3\\ejercicio02prct3\\ejercicio02prct3.csproj",
         "packagesPath": "C:\\Users\\CARLOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CARLOS\\source\\repos\\program2clase3\\program2clase3\\obj\\",
+        "outputPath": "C:\\Users\\CARLOS\\source\\repos\\ejercicio02prct3\\ejercicio02prct3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
