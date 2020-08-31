@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\estructura de datos\clase 1\programa1prct1.cs" Link="programa1prct1.cs" />
+    <Compile Include="C:\estructura de datos\clase 1\programa1prct2.cs" Link="programa1prct2.cs" />
+  </ItemGroup>
+
+</Project>
