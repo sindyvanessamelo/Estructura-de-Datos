@@ -1,0 +1,13 @@
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\bin\Debug\netcoreapp3.1\programa06pract2.exe
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\bin\Debug\netcoreapp3.1\programa06pract2.deps.json
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\bin\Debug\netcoreapp3.1\programa06pract2.runtimeconfig.json
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\bin\Debug\netcoreapp3.1\programa06pract2.runtimeconfig.dev.json
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\bin\Debug\netcoreapp3.1\programa06pract2.dll
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\bin\Debug\netcoreapp3.1\programa06pract2.pdb
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\obj\Debug\netcoreapp3.1\programa06pract2.csprojAssemblyReference.cache
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\obj\Debug\netcoreapp3.1\programa06pract2.AssemblyInfoInputs.cache
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\obj\Debug\netcoreapp3.1\programa06pract2.AssemblyInfo.cs
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\obj\Debug\netcoreapp3.1\programa06pract2.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\obj\Debug\netcoreapp3.1\programa06pract2.dll
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\obj\Debug\netcoreapp3.1\programa06pract2.pdb
+C:\Users\CARLOS\source\repos\programa06pract2\programa06pract2\obj\Debug\netcoreapp3.1\programa06pract2.genruntimeconfig.cache

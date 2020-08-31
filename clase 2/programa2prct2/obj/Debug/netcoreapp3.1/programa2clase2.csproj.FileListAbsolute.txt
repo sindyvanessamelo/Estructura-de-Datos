@@ -1,0 +1,13 @@
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\bin\Debug\netcoreapp3.1\programa2clase2.exe
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\bin\Debug\netcoreapp3.1\programa2clase2.deps.json
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\bin\Debug\netcoreapp3.1\programa2clase2.runtimeconfig.json
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\bin\Debug\netcoreapp3.1\programa2clase2.runtimeconfig.dev.json
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\bin\Debug\netcoreapp3.1\programa2clase2.dll
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\bin\Debug\netcoreapp3.1\programa2clase2.pdb
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\obj\Debug\netcoreapp3.1\programa2clase2.csprojAssemblyReference.cache
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\obj\Debug\netcoreapp3.1\programa2clase2.AssemblyInfoInputs.cache
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\obj\Debug\netcoreapp3.1\programa2clase2.AssemblyInfo.cs
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\obj\Debug\netcoreapp3.1\programa2clase2.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\obj\Debug\netcoreapp3.1\programa2clase2.dll
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\obj\Debug\netcoreapp3.1\programa2clase2.pdb
+C:\Users\CARLOS\source\repos\programa2clase2\programa2clase2\obj\Debug\netcoreapp3.1\programa2clase2.genruntimeconfig.cache
