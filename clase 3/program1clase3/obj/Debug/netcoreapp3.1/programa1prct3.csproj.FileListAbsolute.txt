@@ -1,0 +1,13 @@
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\bin\Debug\netcoreapp3.1\programa1prct3.exe
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\bin\Debug\netcoreapp3.1\programa1prct3.deps.json
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\bin\Debug\netcoreapp3.1\programa1prct3.runtimeconfig.json
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\bin\Debug\netcoreapp3.1\programa1prct3.runtimeconfig.dev.json
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\bin\Debug\netcoreapp3.1\programa1prct3.dll
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\bin\Debug\netcoreapp3.1\programa1prct3.pdb
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\obj\Debug\netcoreapp3.1\programa1prct3.csprojAssemblyReference.cache
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\obj\Debug\netcoreapp3.1\programa1prct3.AssemblyInfoInputs.cache
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\obj\Debug\netcoreapp3.1\programa1prct3.AssemblyInfo.cs
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\obj\Debug\netcoreapp3.1\programa1prct3.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\obj\Debug\netcoreapp3.1\programa1prct3.dll
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\obj\Debug\netcoreapp3.1\programa1prct3.pdb
+C:\Users\CARLOS\source\repos\programa1prct3\programa1prct3\obj\Debug\netcoreapp3.1\programa1prct3.genruntimeconfig.cache

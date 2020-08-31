@@ -1,0 +1,13 @@
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\bin\Debug\netcoreapp3.1\program3clase3.exe
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\bin\Debug\netcoreapp3.1\program3clase3.deps.json
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\bin\Debug\netcoreapp3.1\program3clase3.runtimeconfig.json
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\bin\Debug\netcoreapp3.1\program3clase3.runtimeconfig.dev.json
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\bin\Debug\netcoreapp3.1\program3clase3.dll
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\bin\Debug\netcoreapp3.1\program3clase3.pdb
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\obj\Debug\netcoreapp3.1\program3clase3.csprojAssemblyReference.cache
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\obj\Debug\netcoreapp3.1\program3clase3.AssemblyInfoInputs.cache
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\obj\Debug\netcoreapp3.1\program3clase3.AssemblyInfo.cs
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\obj\Debug\netcoreapp3.1\program3clase3.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\obj\Debug\netcoreapp3.1\program3clase3.dll
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\obj\Debug\netcoreapp3.1\program3clase3.pdb
+C:\Users\CARLOS\source\repos\program3clase3\program3clase3\obj\Debug\netcoreapp3.1\program3clase3.genruntimeconfig.cache
