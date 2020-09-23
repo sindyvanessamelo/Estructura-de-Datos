@@ -1,0 +1,13 @@
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\bin\Debug\netcoreapp3.1\programa 2 prct 5.exe
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\bin\Debug\netcoreapp3.1\programa 2 prct 5.deps.json
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\bin\Debug\netcoreapp3.1\programa 2 prct 5.runtimeconfig.json
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\bin\Debug\netcoreapp3.1\programa 2 prct 5.runtimeconfig.dev.json
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\bin\Debug\netcoreapp3.1\programa 2 prct 5.dll
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\bin\Debug\netcoreapp3.1\programa 2 prct 5.pdb
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\obj\Debug\netcoreapp3.1\programa 2 prct 5.csprojAssemblyReference.cache
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\obj\Debug\netcoreapp3.1\programa 2 prct 5.AssemblyInfoInputs.cache
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\obj\Debug\netcoreapp3.1\programa 2 prct 5.AssemblyInfo.cs
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\obj\Debug\netcoreapp3.1\programa 2 prct 5.csproj.CoreCompileInputs.cache
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\obj\Debug\netcoreapp3.1\programa 2 prct 5.dll
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\obj\Debug\netcoreapp3.1\programa 2 prct 5.pdb
+C:\estructura de datos\clase 5\programa 2 prct 5\programa 2 prct 5\obj\Debug\netcoreapp3.1\programa 2 prct 5.genruntimeconfig.cache
