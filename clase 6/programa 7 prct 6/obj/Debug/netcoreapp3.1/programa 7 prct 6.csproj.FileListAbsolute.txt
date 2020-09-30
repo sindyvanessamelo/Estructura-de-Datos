@@ -1,0 +1,13 @@
+C:\estructura de datos\clase 6\programa 7 prct 6\bin\Debug\netcoreapp3.1\programa 7 prct 6.exe
+C:\estructura de datos\clase 6\programa 7 prct 6\bin\Debug\netcoreapp3.1\programa 7 prct 6.deps.json
+C:\estructura de datos\clase 6\programa 7 prct 6\bin\Debug\netcoreapp3.1\programa 7 prct 6.runtimeconfig.json
+C:\estructura de datos\clase 6\programa 7 prct 6\bin\Debug\netcoreapp3.1\programa 7 prct 6.runtimeconfig.dev.json
+C:\estructura de datos\clase 6\programa 7 prct 6\bin\Debug\netcoreapp3.1\programa 7 prct 6.dll
+C:\estructura de datos\clase 6\programa 7 prct 6\bin\Debug\netcoreapp3.1\programa 7 prct 6.pdb
+C:\estructura de datos\clase 6\programa 7 prct 6\obj\Debug\netcoreapp3.1\programa 7 prct 6.csprojAssemblyReference.cache
+C:\estructura de datos\clase 6\programa 7 prct 6\obj\Debug\netcoreapp3.1\programa 7 prct 6.AssemblyInfoInputs.cache
+C:\estructura de datos\clase 6\programa 7 prct 6\obj\Debug\netcoreapp3.1\programa 7 prct 6.AssemblyInfo.cs
+C:\estructura de datos\clase 6\programa 7 prct 6\obj\Debug\netcoreapp3.1\programa 7 prct 6.csproj.CoreCompileInputs.cache
+C:\estructura de datos\clase 6\programa 7 prct 6\obj\Debug\netcoreapp3.1\programa 7 prct 6.dll
+C:\estructura de datos\clase 6\programa 7 prct 6\obj\Debug\netcoreapp3.1\programa 7 prct 6.pdb
+C:\estructura de datos\clase 6\programa 7 prct 6\obj\Debug\netcoreapp3.1\programa 7 prct 6.genruntimeconfig.cache
