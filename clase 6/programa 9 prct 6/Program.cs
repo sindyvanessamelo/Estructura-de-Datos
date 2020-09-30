@@ -5,32 +5,51 @@ namespace programa_9_prct_6
 {
     class Program
     {
-   
-            static void Main(string[] args)
+        static void Main(string[] args)
+        {
+       
+            int[] aux = new int[5];
+            // recibir pila1 Y pila2
+
+            int[] mipila1 = {2,3,4,5,6 };
+            int[] mipila2 = {7,0,9,8,10 };
+
+            Console.WriteLine("");
+            Console.WriteLine("primera lista: {0}", string.Join(" , ", mipila1));
+            Console.WriteLine("segunda lista: {0}", string.Join(" , ", mipila2));
+            Console.WriteLine("______________________________________");
+
+
+            int[] result = new int[mipila1.Length + mipila2.Length];
+            for (int i = 0; i < mipila1.Length; i++)
             {
-                ArrayList lista1 = new ArrayList();
-
-                lista1.Add(1);
-                lista1.Add(2);
-                lista1.Add(3);
-                imprime(lista1);
-
-                ArrayList lista2 = new ArrayList();
-
-                lista2.Add(4);
-                lista2.Add(5);
-                lista2.Add(10);
-                imprime(lista2);
-
-                Console.WriteLine("La concatenación en forma ordena ordenada de las listas es:  ");
-
-                static void imprime(ArrayList arreglo)
-                {
-                    foreach (int n in arreglo)
-                        Console.Write("  {0},", n);
-                    Console.WriteLine("\n—————————————");
-                }
+                //intercambiar valores 
+                aux[i] = mipila1[i];
+                mipila1[i] = mipila2[i];
+                mipila2[i] = aux[i];
             }
+           Console.WriteLine("");
+           Console.WriteLine("valores intercambiados");
+           Console.WriteLine("primera lista: {0}", string.Join(" , ", mipila1));
+           Console.WriteLine("segunda lista: {0}", string.Join(" , ", mipila2));
+           Console.WriteLine("______________________________________");
+
+            //la pila1 debe tener los valores de la pila2 con sus propios valores
+
+            for (int i = 0; i < mipila1.Length; i++)
+            {
+                result[i] = mipila1[i];
+            }
+
+            for (int i = 0; i < mipila2.Length; i++)
+            {
+                result[i + mipila1.Length] = mipila2[i];
+
+                Array.Reverse(result);
+            }
+
+            Console.WriteLine("");
+            Console.WriteLine("Resultado: {0}", string.Join(", ", result));
         }
     }
-
+}
