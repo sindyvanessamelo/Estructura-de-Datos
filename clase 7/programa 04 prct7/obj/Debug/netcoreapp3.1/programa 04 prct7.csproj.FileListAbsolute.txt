@@ -1,0 +1,13 @@
+C:\estructura de datos\clase 7\programa 04 prct7\bin\Debug\netcoreapp3.1\programa 04 prct7.exe
+C:\estructura de datos\clase 7\programa 04 prct7\bin\Debug\netcoreapp3.1\programa 04 prct7.deps.json
+C:\estructura de datos\clase 7\programa 04 prct7\bin\Debug\netcoreapp3.1\programa 04 prct7.runtimeconfig.json
+C:\estructura de datos\clase 7\programa 04 prct7\bin\Debug\netcoreapp3.1\programa 04 prct7.runtimeconfig.dev.json
+C:\estructura de datos\clase 7\programa 04 prct7\bin\Debug\netcoreapp3.1\programa 04 prct7.dll
+C:\estructura de datos\clase 7\programa 04 prct7\bin\Debug\netcoreapp3.1\programa 04 prct7.pdb
+C:\estructura de datos\clase 7\programa 04 prct7\obj\Debug\netcoreapp3.1\programa 04 prct7.csprojAssemblyReference.cache
+C:\estructura de datos\clase 7\programa 04 prct7\obj\Debug\netcoreapp3.1\programa 04 prct7.AssemblyInfoInputs.cache
+C:\estructura de datos\clase 7\programa 04 prct7\obj\Debug\netcoreapp3.1\programa 04 prct7.AssemblyInfo.cs
+C:\estructura de datos\clase 7\programa 04 prct7\obj\Debug\netcoreapp3.1\programa 04 prct7.csproj.CoreCompileInputs.cache
+C:\estructura de datos\clase 7\programa 04 prct7\obj\Debug\netcoreapp3.1\programa 04 prct7.dll
+C:\estructura de datos\clase 7\programa 04 prct7\obj\Debug\netcoreapp3.1\programa 04 prct7.pdb
+C:\estructura de datos\clase 7\programa 04 prct7\obj\Debug\netcoreapp3.1\programa 04 prct7.genruntimeconfig.cache
