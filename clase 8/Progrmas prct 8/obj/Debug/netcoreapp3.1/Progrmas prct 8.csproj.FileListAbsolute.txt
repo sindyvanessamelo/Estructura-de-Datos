@@ -1,0 +1,13 @@
+C:\estructura de datos\clase 8\Progrmas prct 8\bin\Debug\netcoreapp3.1\Progrmas prct 8.exe
+C:\estructura de datos\clase 8\Progrmas prct 8\bin\Debug\netcoreapp3.1\Progrmas prct 8.deps.json
+C:\estructura de datos\clase 8\Progrmas prct 8\bin\Debug\netcoreapp3.1\Progrmas prct 8.runtimeconfig.json
+C:\estructura de datos\clase 8\Progrmas prct 8\bin\Debug\netcoreapp3.1\Progrmas prct 8.runtimeconfig.dev.json
+C:\estructura de datos\clase 8\Progrmas prct 8\bin\Debug\netcoreapp3.1\Progrmas prct 8.dll
+C:\estructura de datos\clase 8\Progrmas prct 8\bin\Debug\netcoreapp3.1\Progrmas prct 8.pdb
+C:\estructura de datos\clase 8\Progrmas prct 8\obj\Debug\netcoreapp3.1\Progrmas prct 8.csprojAssemblyReference.cache
+C:\estructura de datos\clase 8\Progrmas prct 8\obj\Debug\netcoreapp3.1\Progrmas prct 8.AssemblyInfoInputs.cache
+C:\estructura de datos\clase 8\Progrmas prct 8\obj\Debug\netcoreapp3.1\Progrmas prct 8.AssemblyInfo.cs
+C:\estructura de datos\clase 8\Progrmas prct 8\obj\Debug\netcoreapp3.1\Progrmas prct 8.csproj.CoreCompileInputs.cache
+C:\estructura de datos\clase 8\Progrmas prct 8\obj\Debug\netcoreapp3.1\Progrmas prct 8.dll
+C:\estructura de datos\clase 8\Progrmas prct 8\obj\Debug\netcoreapp3.1\Progrmas prct 8.pdb
+C:\estructura de datos\clase 8\Progrmas prct 8\obj\Debug\netcoreapp3.1\Progrmas prct 8.genruntimeconfig.cache
