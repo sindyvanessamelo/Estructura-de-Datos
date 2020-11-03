@@ -1,0 +1,13 @@
+C:\estructura de datos\clase 9\programa 1 prct 9\bin\Debug\netcoreapp3.1\programa 1 prct 9.exe
+C:\estructura de datos\clase 9\programa 1 prct 9\bin\Debug\netcoreapp3.1\programa 1 prct 9.deps.json
+C:\estructura de datos\clase 9\programa 1 prct 9\bin\Debug\netcoreapp3.1\programa 1 prct 9.runtimeconfig.json
+C:\estructura de datos\clase 9\programa 1 prct 9\bin\Debug\netcoreapp3.1\programa 1 prct 9.runtimeconfig.dev.json
+C:\estructura de datos\clase 9\programa 1 prct 9\bin\Debug\netcoreapp3.1\programa 1 prct 9.dll
+C:\estructura de datos\clase 9\programa 1 prct 9\bin\Debug\netcoreapp3.1\programa 1 prct 9.pdb
+C:\estructura de datos\clase 9\programa 1 prct 9\obj\Debug\netcoreapp3.1\programa 1 prct 9.csprojAssemblyReference.cache
+C:\estructura de datos\clase 9\programa 1 prct 9\obj\Debug\netcoreapp3.1\programa 1 prct 9.AssemblyInfoInputs.cache
+C:\estructura de datos\clase 9\programa 1 prct 9\obj\Debug\netcoreapp3.1\programa 1 prct 9.AssemblyInfo.cs
+C:\estructura de datos\clase 9\programa 1 prct 9\obj\Debug\netcoreapp3.1\programa 1 prct 9.csproj.CoreCompileInputs.cache
+C:\estructura de datos\clase 9\programa 1 prct 9\obj\Debug\netcoreapp3.1\programa 1 prct 9.dll
+C:\estructura de datos\clase 9\programa 1 prct 9\obj\Debug\netcoreapp3.1\programa 1 prct 9.pdb
+C:\estructura de datos\clase 9\programa 1 prct 9\obj\Debug\netcoreapp3.1\programa 1 prct 9.genruntimeconfig.cache
