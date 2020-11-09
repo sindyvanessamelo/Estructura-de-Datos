@@ -1,0 +1,13 @@
+C:\estructura de datos\clase 10\programa 2 prct 10\bin\Debug\netcoreapp3.1\programa 2 prct 10.exe
+C:\estructura de datos\clase 10\programa 2 prct 10\bin\Debug\netcoreapp3.1\programa 2 prct 10.deps.json
+C:\estructura de datos\clase 10\programa 2 prct 10\bin\Debug\netcoreapp3.1\programa 2 prct 10.runtimeconfig.json
+C:\estructura de datos\clase 10\programa 2 prct 10\bin\Debug\netcoreapp3.1\programa 2 prct 10.runtimeconfig.dev.json
+C:\estructura de datos\clase 10\programa 2 prct 10\bin\Debug\netcoreapp3.1\programa 2 prct 10.dll
+C:\estructura de datos\clase 10\programa 2 prct 10\bin\Debug\netcoreapp3.1\programa 2 prct 10.pdb
+C:\estructura de datos\clase 10\programa 2 prct 10\obj\Debug\netcoreapp3.1\programa 2 prct 10.csprojAssemblyReference.cache
+C:\estructura de datos\clase 10\programa 2 prct 10\obj\Debug\netcoreapp3.1\programa 2 prct 10.AssemblyInfoInputs.cache
+C:\estructura de datos\clase 10\programa 2 prct 10\obj\Debug\netcoreapp3.1\programa 2 prct 10.AssemblyInfo.cs
+C:\estructura de datos\clase 10\programa 2 prct 10\obj\Debug\netcoreapp3.1\programa 2 prct 10.csproj.CoreCompileInputs.cache
+C:\estructura de datos\clase 10\programa 2 prct 10\obj\Debug\netcoreapp3.1\programa 2 prct 10.dll
+C:\estructura de datos\clase 10\programa 2 prct 10\obj\Debug\netcoreapp3.1\programa 2 prct 10.pdb
+C:\estructura de datos\clase 10\programa 2 prct 10\obj\Debug\netcoreapp3.1\programa 2 prct 10.genruntimeconfig.cache
